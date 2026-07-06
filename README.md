@@ -40,3 +40,10 @@ Communicating with the customer is very important even if you don't understand t
 <br />
 
 <p>
+<p>
+<img src="https://i.imgur.com/bmeWSHD.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once you finish with the customers request and helping them with the situation with there ticket you must closed the ticket. This will help your employer know you have finished the task in a reasonable time which you should always follow the SLA agreement in order to complete you ticket.
+</p>
+<br />
