@@ -32,3 +32,11 @@ Here we are going to create a ticket in order for someone to help us with our si
 <br />
 
 <p>
+<img width="1916" height="1053" alt="image" src="https://github.com/user-attachments/assets/5e94f33d-564d-4e40-a34d-c2e3839d0ab2" />
+</p>
+<p>
+Communicating with the customer is very important even if you don't understand the ticket always communicate with the customer and keep them inform of the situtaion or can also get in contact with them and ask them about whats going on. Communcating with co workers is also important just in case you don't understand the customers ticket, but posting updates in the customers ticket is very important that way if someone can help you they will.
+</p>
+<br />
+
+<p>
