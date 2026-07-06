@@ -23,6 +23,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Lifecycle example</h2>
+
+<p>
+<img width="1798" height="1061" alt="image" src="https://github.com/user-attachments/assets/f82d32cc-9677-4d09-9eab-09cba32e7a82" />
+Here we are going to create a ticket in order for someone to help us with our sitution from your computer not turning on, resetting password, to rebooting your computer whatever situtation you need you have to start of with a ticket. If a customer calls and has yet to create a ticket you as a help desk can also create a ticket for the customer. 
+</p>
+<br />
 
 <p>
